@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "env": {
+    "ACCESS_KEY": "@access_key",
+    "SECRET_KEY": "@secret_key"
+  }
+}
